@@ -1,0 +1,18 @@
+packages: [
+  ".bin"
+  "angularjs"
+  "atom-beautify"
+  "atom-typescript"
+  "color-picker"
+  "expand-region"
+  "git-diff-details"
+  "linter"
+  "linter-tslint"
+  "markdown-preview-plus"
+  "merge-conflicts"
+  "minimap"
+  "package-sync"
+  "pigments"
+  "react"
+  "tabs-to-spaces"
+]

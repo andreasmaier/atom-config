@@ -1,0 +1,9 @@
+storage
+compile-cache
+dev
+.npm
+.node-gyp
+.apmrc
+.apm/
+packages/
+atom-shell/
